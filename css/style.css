@@ -1,0 +1,13 @@
+body{
+    height: 3000px;
+}
+.box {
+    padding: 10px 30px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.static{
+    position: static;
+    background-color: black;
+}
