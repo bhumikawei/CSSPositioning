@@ -23,3 +23,15 @@ body{
     right: 100px;
     background-color: greenyellow;
 }
+.parent {
+    position: relative;
+    width: 600px;
+    height: 200px;
+    background-color: aqua;
+}
+.absolute-in-relative {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: black;
+}
