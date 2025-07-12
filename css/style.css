@@ -17,3 +17,9 @@ body{
     left: 50px;
     background-color: blue;
 }
+.absolute{
+    position: absolute;
+    top: 300px;
+    right: 100px;
+    background-color: greenyellow;
+}
